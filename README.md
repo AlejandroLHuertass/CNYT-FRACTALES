@@ -2,7 +2,7 @@
 
 Un fractal es una figura o patrón que se repite a diferentes escalas y detalles infinitos. Es como una estructura matemática que exhibe autosimilitud, lo que significa que partes más pequeñas de la figura se asemejan a la figura completa.
 
-Un ejemplo comúnmente conocido de fractal es el conjunto de Mandelbrot, que tiene una forma geométrica compleja y hermosa. Otros ejemplos incluyen el triángulo de Sierpinski, el helecho de Barnsley y el copo de nieve de Koch.
+Un ejemplo comúnmente conocido de fractal es el conjunto de Mandelbrot, que tiene una forma geométrica. Otros ejemplos incluyen el triángulo de Sierpinski, el helecho de Barnsley y el copo de nieve de Koch las cuales generan similitudes a escalas diferentes y esta propiedad se refleja en la naturaleza repetitiva, dejo algunos ejemplos.
 
 Los fractales tienen aplicaciones en matemáticas, física, informática, arte y muchas otras áreas.
 Relación con los números complejos
@@ -13,7 +13,7 @@ Un fractal se puede generar iterativamente aplicando una función matemática a 
 
 El conjunto de Mandelbrot es un ejemplo destacado de fractal relacionado con los números complejos, y su visualización revela patrones intrigantes y detalles infinitos.
 Esto nos planea que los números complejos están compuestos por una parte real y una parte imaginaria y se pueden representar como puntos en el plano complejo. Si vemos el eje x representara la parte real y el eje y representa la parte imaginaria. La combinación de estos dos componentes crea un espacio matemático que se genera a partir de las ecuaciones desarrolladas por MandelBrot.
-Cabe destacas que una de las características es que fractales exhiben autosimilitud, lo que significa que presentan patrones similares a diferentes escalas. Cada parte de un fractal se asemeja al conjunto completo, lo que da lugar a una estructura recursiva. Esta propiedad se refleja en la naturaleza repetitiva, dejo algunos ejemplos.
+Cabe destacas que una de las características es que fractales exhiben autosimilitud, lo que significa que presentan patrones similares a diferentes escalas. Cada parte de un fractal se asemeja al conjunto completo, lo que da lugar a una estructura recursiva. 
 
 El conjunto de Mandelbrot es uno de los fractales más conocidos y se basa en la iteración de una función específica donde cada uno de sus resultados se pueden colocar en un plano complejo y a través de colores mostrar fractales. 
 
