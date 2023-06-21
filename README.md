@@ -76,6 +76,24 @@ Se obtendra el fractal que se describe con la ecuacion
 
 ![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/1920c728-17f7-4cce-8343-bc083fdb7cff)
 
+Como ejemplo deje otra combinacion de numeros que genero otro fractal diferente
+
+![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/64730d00-19ec-4a17-9c32-8f1773e59818)
+
+Si se elije la segunda opcion basta con definir el numero de niveles y de manera recursiva obtendremos el triangulo en la etapa que deseemos
+
+![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/48478492-070c-4ca6-9941-e88ebc6b6591)
+
+El resutado para etapa 3
+
+![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/dc5d3299-1f20-434d-8b09-69425d4e66a9)
+
+para etapa 8 
+
+![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/a2839d00-1e28-41e5-8633-c9b9dcd11d5e)
+
+si hacemos zoom ![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/3be16f45-7c9c-4997-8d89-50da6c51488f)![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/1edf1485-b065-445f-9bfb-8f81fe8cad21)![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/2657e5b5-665b-4fd0-aafa-9b62a2f3359a)
+
 
 
 
