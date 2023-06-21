@@ -62,3 +62,22 @@ También en Modelado de fenómenos naturales donde los fractales se utilizan par
 2. Aceff Sánchez, F. de. (2000). Fractales. Pro Mathematica, 14(27-28), 121-133. Recuperado a partir de (https://revistas.pucp.edu.pe/index.php/promathematica/article/view/8162)
 
 
+## Codigo
+
+Se inicia con un menu donde puede elegir entre realizar fractales complejos a partir del conjunto de MandelBrot o el Triangulo de Sepienski
+
+![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/3095779c-51ba-4570-a0ca-b76422e0e3bc)
+
+En el primer caso luego de definir las posiciones maximas y minimas del fractal, ademas de las repeticiones 
+
+![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/642b4b7a-b9bc-4f47-a606-b7bff0be7b4c)
+
+Se obtendra el fractal que se describe con la ecuacion
+
+![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/1920c728-17f7-4cce-8343-bc083fdb7cff)
+
+
+
+
+
+
