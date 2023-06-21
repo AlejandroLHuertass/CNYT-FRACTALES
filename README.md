@@ -6,7 +6,7 @@ Un ejemplo comúnmente conocido de fractal es el conjunto de Mandelbrot, que tie
 
 
 <img src="https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/4b4ddbc3-b502-4f9c-bce4-cb907ddbd68d](https://www.aepjp.es/wp-content/uploads/2020/08/bird-wing-colorful-fauna-material-peacock-1159930-pxhere-com-1024x768.jpg" width="200" height="200" />
-
+<img src="https://pijamasurf.com/wp-content/uploads/10.208.149.45/uploads/2013/02/snowflake.jpeg" width="200" height="200" />
 Los fractales tienen aplicaciones en matemáticas, física, informática, arte y muchas otras áreas.
 Relación con los números complejos
 
