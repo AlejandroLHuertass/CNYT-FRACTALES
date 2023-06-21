@@ -19,9 +19,8 @@ Esto nos planea que los números complejos están compuestos por una parte real 
 Cabe destacas que una de las características es que fractales exhiben autosimilitud, lo que significa que presentan patrones similares a diferentes escalas. Cada parte de un fractal se asemeja al conjunto completo, lo que da lugar a una estructura recursiva. 
 
 El conjunto de Mandelbrot es uno de los fractales más conocidos y se basa en la iteración de una función específica donde cada uno de sus resultados se pueden colocar en un plano complejo y a través de colores mostrar fractales. 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Mandelset_hires.png" width="300" height="300" />
 
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Mandelset_hires.png" width="550" height="400" />
 
 ### ¿Como funciona la formula para generar un fractal a partir conjunto de Mandelbrot?
 
