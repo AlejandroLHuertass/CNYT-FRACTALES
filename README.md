@@ -37,6 +37,8 @@ La parte interesante del conjunto de Mandelbrot es que, cuando te acercas y hace
 
 ## El Triangulo de Sepienski
 
+<img src="https://www.madrimasd.org/blogs/matematicas/files/2016/07/triang2.gif" width="360" height="210" />
+
 El triángulo de Sierpinski es un ejemplo clásico de cómo una figura simple puede generar una estructura compleja mediante la repetición de un patrón básico. 
 ### ¿Como funciona?
 
