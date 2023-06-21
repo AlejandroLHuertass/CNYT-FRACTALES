@@ -4,8 +4,8 @@ Un fractal es una figura o patrón que se repite a diferentes escalas y detalles
 
 Un ejemplo comúnmente conocido de fractal es el conjunto de Mandelbrot, que tiene una forma geométrica. Otros ejemplos incluyen el triángulo de Sierpinski, el helecho de Barnsley y el copo de nieve de Koch las cuales generan similitudes a escalas diferentes y esta propiedad se refleja en la naturaleza repetitiva, dejo algunos ejemplos.
 
-![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/4b4ddbc3-b502-4f9c-bce4-cb907ddbd68d=10x20)
 
+<img src="http://....jpg](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/4b4ddbc3-b502-4f9c-bce4-cb907ddbd68d" width="200" height="200" />
 
 Los fractales tienen aplicaciones en matemáticas, física, informática, arte y muchas otras áreas.
 Relación con los números complejos
