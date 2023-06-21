@@ -92,7 +92,9 @@ para etapa 8
 
 ![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/a2839d00-1e28-41e5-8633-c9b9dcd11d5e)
 
-si hacemos zoom ![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/3be16f45-7c9c-4997-8d89-50da6c51488f)![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/1edf1485-b065-445f-9bfb-8f81fe8cad21)![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/2657e5b5-665b-4fd0-aafa-9b62a2f3359a)
+si hacemos zoom 
+
+![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/3be16f45-7c9c-4997-8d89-50da6c51488f)![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/1edf1485-b065-445f-9bfb-8f81fe8cad21)![image](https://github.com/AlejandroLHuertass/CNYT-FRACTALES/assets/88836525/2657e5b5-665b-4fd0-aafa-9b62a2f3359a)
 
 
 
